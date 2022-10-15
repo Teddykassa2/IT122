@@ -1,0 +1,23 @@
+{
+  "name": "npn-init-exercise",
+  "version": "1.0.0",
+  "description": "npm init",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teddykassa2/IT122.git"
+  },
+  "keywords": [
+    "npm",
+    "init"
+  ],
+  "author": "Teddy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teddykassa2/IT122/issues"
+  },
+  "homepage": "https://github.com/Teddykassa2/IT122#readme"
+}
